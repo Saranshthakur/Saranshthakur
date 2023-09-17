@@ -11,11 +11,7 @@
 
 - 📫 How to reach me **sthakur6@depaul.edu**
 
-- 📄 My Skills: My primary focus at the moment revolves around Python, a programming language that has played a pivotal role in enhancing my understanding of the fields of machine learning and data science. Through my journey, I've cultivated a strong grasp of foundational coding principles, which serve as the bedrock of my expertise in these domains. 
-
-In addition to Python, I've dedicated time to acquiring proficiency in other programming languages, notably R, recognizing their essential role in shaping a successful career as a machine learning engineer or data scientist. By expanding my linguistic repertoire, I've further enriched my toolkit, allowing me to tackle diverse challenges within the data-driven realm.
-
-Throughout my captivating journey in the dynamic world of data science and machine learning, I've conscientiously amassed a comprehensive arsenal of skills and knowledge. These invaluable tools and techniques empower me not only to conceive and initiate complex machine learning projects but also to navigate, comprehend, and optimize them effectively. My dedication to continuous learning ensures that I remain at the forefront of this ever-evolving field, ready to take on new and exciting challenges.
+- 📄 My Skills : My primary focus at the moment revolves around Python, a programming language that has played a pivotal role in enhancing my understanding of the fields of machine learning and data science. Through my journey, I've cultivated a strong grasp of foundational coding principles, which serve as the bedrock of my expertise in these domains. In addition to Python, I've dedicated time to acquiring proficiency in other programming languages, notably R, recognizing their essential role in shaping a successful career as a machine learning engineer or data scientist. By expanding my linguistic repertoire, I've further enriched my toolkit, allowing me to tackle diverse challenges within the data-driven realm. Throughout my captivating journey in the dynamic world of data science and machine learning, I've conscientiously amassed a comprehensive arsenal of skills and knowledge. These invaluable tools and techniques empower me not only to conceive and initiate complex machine learning projects but also to navigate, comprehend, and optimize them effectively. My dedication to continuous learning ensures that I remain at the forefront of this ever-evolving field, ready to take on new and exciting challenges.
 
 - ⚡ Fun fact **I am Adventurous**
 
