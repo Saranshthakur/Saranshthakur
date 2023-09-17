@@ -11,7 +11,11 @@
 
 - 📫 How to reach me **sthakur6@depaul.edu**
 
-- 📄 My Skills: From a young age, I embarked on my coding journey, initially delving into the intricacies of the C language. As I continue to expand my horizons, my current focus lies in the realm of Python, a language that has significantly enriched my understanding of machine learning and data science. Consequently, I've nurtured a robust grasp of fundamental coding principles. Furthermore, I've broadened my expertise by gaining proficiency in other programming languages, including R, which are indispensable for forging a career as a machine learning engineer or data scientist. Throughout my journey in the captivating world of data science and machine learning, I've accumulated a comprehensive arsenal of skills. These invaluable tools and techniques have empowered me to proficiently conceive, develop, and comprehend intricate machine learning projects.
+- 📄 My Skills: My primary focus at the moment revolves around Python, a programming language that has played a pivotal role in enhancing my understanding of the fields of machine learning and data science. Through my journey, I've cultivated a strong grasp of foundational coding principles, which serve as the bedrock of my expertise in these domains. 
+
+In addition to Python, I've dedicated time to acquiring proficiency in other programming languages, notably R, recognizing their essential role in shaping a successful career as a machine learning engineer or data scientist. By expanding my linguistic repertoire, I've further enriched my toolkit, allowing me to tackle diverse challenges within the data-driven realm.
+
+Throughout my captivating journey in the dynamic world of data science and machine learning, I've conscientiously amassed a comprehensive arsenal of skills and knowledge. These invaluable tools and techniques empower me not only to conceive and initiate complex machine learning projects but also to navigate, comprehend, and optimize them effectively. My dedication to continuous learning ensures that I remain at the forefront of this ever-evolving field, ready to take on new and exciting challenges.
 
 - ⚡ Fun fact **I am Adventurous**
 
