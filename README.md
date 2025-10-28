@@ -32,16 +32,6 @@ My focus lies in combining **Machine Learning, Generative AI, and Engineering** 
 
 ---
 
-## 🌱 Career Roadmap  
-
-| Phase | Role | Focus |
-|-------|------|--------|
-| 🧩 **Start** | **Data Scientist** | Build ML and analytics fundamentals |
-| 🌉 **Bridge** | **Applied AI Engineer** | Learn deployment, scaling, and MLOps |
-| 🧠 **Create** | **GenAI Engineer** | Build LLM and RAG-based applications |
-| 🤖 **Advance** | **Agentic AI Engineer** | Develop reasoning, multi-agent systems |
-| 🏗️ **Lead** | **AI Architect** | Design and oversee end-to-end AI ecosystems |
-
 ---
 
 ## 🧭 Currently Exploring  
