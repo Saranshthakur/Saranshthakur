@@ -1,4 +1,4 @@
-## Hi, I'm Saransh Thakur  
+## 👋 Hi, I'm Saransh Thakur  
 
 I’m a **Data Scientist** with expertise in **machine learning**, **statistical modeling**, and **generative AI systems**.  
 My work blends analytical rigor with practical engineering to design models that are **interpretable, scalable, and production-ready**.  
