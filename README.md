@@ -1,57 +1,46 @@
-# 👋 Hi, I'm Saransh Thakur  
+## Hi, I'm Saransh Thakur  
 
-🎯 **Data Scientist | ML Engineer | Generative AI Enthusiast**  
-
-I build data-driven and AI-powered systems that don’t just predict — they solve real business problems.  
-My focus lies in combining **Machine Learning, Generative AI, and Engineering** to create scalable, explainable, and high-impact solutions across healthcare, finance, and retail domains.
+I’m a **Data Scientist** with expertise in **machine learning**, **statistical modeling**, and **generative AI systems**.  
+My work blends analytical rigor with practical engineering to design models that are **interpretable, scalable, and production-ready**.  
 
 ---
 
-## 🧩 About Me  
+### 🎓 About Me  
 
-🎓 **MS in Data Science, DePaul University (Chicago)**  
-
-**What drives me:** bridging traditional Data Science with next-generation **LLM and RAG systems**, enabling real-world AI adoption and governance.
-
----
-
-## 🧠 Technical Skills  
-
-**Languages:** Python, R, SQL  
-**Libraries:** Pandas, NumPy, Scikit-Learn, XGBoost, PyTorch, TensorFlow  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-**Cloud & Big Data:** AWS, Azure, Hadoop, Spark, GCP BigQuery  
-**Specialties:** Predictive Modeling, Feature Engineering, RAG (LangChain, FAISS, Chroma), LLM Evaluation, ML Validation  
+I hold a **Master’s in Data Science** from **DePaul University, Chicago**, and have applied data-driven solutions across **finance** and **retail** domains.  
+My background spans **predictive analytics**, **risk modeling**, and **AI validation** — with a focus on building systems that emphasize **reliability**, **fairness**, and **compliance** in real-world environments.  
 
 ---
 
-## 🚀 Featured Projects  
+### 🔬 Current Focus  
 
-- 🧱 **[LangSmith RAG Pipeline](https://github.com/saranshthakur/langsmith-rag)**  
-  End-to-end Retrieval-Augmented Generation system using LangChain, OpenAI, and FAISS for document-based Q&A.  
-
----
+I’m currently exploring **Large Language Models (LLMs)** and **Agentic AI systems**, building modular, reasoning-driven workflows using **LangChain**, **LangGraph**, and **CrewAI**.  
+My recent work involves **Retrieval-Augmented Generation (RAG)** pipelines that integrate external data sources, perform dynamic context routing, and ensure factual, auditable responses.  
 
 ---
 
-## 🧭 Currently Exploring  
+### ⚙️ Technical Expertise  
 
-- Multi-Agent frameworks (CrewAI, LangGraph)  
-- LLM evaluation and RAG governance  
-- Cloud-native ML deployment and monitoring  
-
----
-
-## 📫 Connect With Me  
-
-📧 **sthakur6@depaul.edu**  
+- **Machine Learning:** Logistic Regression, Random Forest, XGBoost, LightGBM, SVM  
+- **Deep Learning:** CNNs, RNNs, LSTMs, Transformers  
+- **Generative AI:** LangChain, LangGraph, CrewAI, RAG, OpenAI, Llama 2  
+- **Data Tools:** Python, SQL, Pandas, PySpark, Power BI, Tableau  
 
 ---
 
-## ⚡ Outside Work  
+### 🚀 Recent Projects  
 
-When I’m not training models, I’m usually hiking, biking, or snowboarding — anything that clears the head and sparks creativity.
+**rag-llama3-pdf-chatbot**  
+Retrieval-Augmented Generation app integrating **Llama3-8B**, **LangChain**, and **FAISS** for document-based question answering.  
 
----
+**streamlit-langchain-chatbot**  
+Interactive chatbot built with **Streamlit** and **LangChain**, supporting real-time LLM responses.  
 
-⭐ *“The goal isn’t to make AI replace human intelligence — it’s to make human intelligence limitless.”*  
+**crewai-youtube-blog-generator**  
+Automated multi-agent system built with **CrewAI** that researches YouTube topics and generates blog-ready summaries.  
+
+**langgraph-tool-chatbot**  
+LLM-powered chatbot built with **LangGraph**, routing factual queries to **ArXiv** and **Wikipedia** while handling general chat with **Groq’s Gemma-2-9B**.  
+
+**langsmith-rag**  
+End-to-end **RAG pipeline** using **LangChain**, **OpenAI**, and **FAISS** to query LangSmith documentation.  
